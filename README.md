@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=-1xWhYmOT0A
 
 LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2]
 https://www.youtube.com/watch?v=yF9kGESAi3M&t=3458s
+
+[![Rick Astley - Never Gonna Give You Up](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
