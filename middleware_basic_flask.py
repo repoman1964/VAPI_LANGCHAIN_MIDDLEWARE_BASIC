@@ -126,7 +126,7 @@ def assistant_request_handler(payload):
             "model": {
                 "provider": "custom-llm",
                 "model": "not specified",
-                "url": "https://b878-24-96-15-35.ngrok-free.app/",
+                "url": "https://e844-24-96-15-35.ngrok-free.app/",
                 "temperature": 0.7,
                 "systemPrompt": "You're Andrew, an AI assistant who can help user with any questions they have."
             },
@@ -135,7 +135,7 @@ def assistant_request_handler(payload):
                 "voiceId": "andrew",
                 "speed": 1
             },
-            "firstMessage": "Hi, I'm Andrew, your personal AI assistant.",
+            "firstMessage": "Hi, I'm Andrew. I'm on a flask server right now. How can I help you today?",
             "recordingEnabled": True
         }
         return {'assistant': assistant_config}
